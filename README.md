@@ -2,10 +2,10 @@
 # Marketing Project 2024
 This group project was created in **Introduction to Marketing** about Milwaukee Tools
 ## Table of Contents 
-1. [Project Title]
-2. [Description]
-3. [Files Used]
-4. [Final]
+1. [Project Title] (#Project-Title)
+2. [Description] (#Description)
+3. [Files Used] (#Files-Used)
+5. [Final] (#Final)
 ## Project Title
 *Milwaukee Tools, One2Key "It's as easy as one, two, key"*
 ## Description
