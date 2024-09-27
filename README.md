@@ -1,4 +1,3 @@
-# Hello-World
 # Marketing Project 2024
 This group project was created in **Introduction to Marketing** about Milwaukee Tools
 ## Table of Contents 
