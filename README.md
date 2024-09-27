@@ -1,5 +1,5 @@
 # Marketing Project 2024
-This group project was created in **Introduction to Marketing** about Milwaukee Tools
+This group project was created in **Introduction to Marketing** about Milwaukee Tools :hammer:
 ## Table of Contents 
 1. [Project Title](#Project-Title)
 2. [Description](#Description)
